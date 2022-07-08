@@ -9,3 +9,5 @@ nesse desafio de projeto, criamos um jogo da memória utilizando HTML, CSS & Jav
 ```
 - adição simples de um botão de recomeço do jogo.
 ```
+
+[CLIQUE AQUI PARA JOGAR!](https://erichericherich.github.io/jogo-da-memoria-js/)
